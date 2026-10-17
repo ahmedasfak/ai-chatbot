@@ -1,4 +1,4 @@
-# FreshKart Support Desk
+# ai-chatbot: FreshKart Support Desk
 
 A beginner-friendly customer-support bot built with LangChain (LCEL), first as a notebook, then as a Streamlit app.
 Rules live in plain Python, the LLM only classifies intent and writes the reply.
